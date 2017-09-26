@@ -1,8 +1,5 @@
-# DFHG volume 5-1
+# DFHG Volumen Quintum Pars Prior
 
-This page contains links to data from the [DFHG project](http://www.dfhg-project.org/) - vol. 5-1:
+This page contains data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Quintum Pars Prios](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20quintum%20pars%20prior#).
 
-* [Praefatio](http://www.dfhg-project.org/DFHG/static_viewer.php?file=praefatio_volumen_quintum_pars_prior.html) of DFHG vol. 5-1
-* [CSV files](http://www.dfhg-project.org/DFHG/export_csv.php) of FHG authors vol. 5-1
-* [XML files](http://www.dfhg-project.org/DFHG/export_xml.php) of FHG authors vol. 5-1
-* [Addenda](http://www.dfhg-project.org/DFHG/static_viewer.php?file=Addenda_Volumen_quintum_pars_prior.html)
+`xml` files have been automatically generated from data stored in the DFHG database and are encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.
