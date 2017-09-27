@@ -1,4 +1,6 @@
-# DFHG Volumen Quintum Pars Prior
+[![DOI](https://zenodo.org/badge/90873590.svg)](https://zenodo.org/badge/latestdoi/90873590)
+
+## DFHG Volumen Quintum Pars Prior
 
 This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Quintum Pars Prior](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20quintum%20pars%20prior#).
 
